@@ -36,7 +36,7 @@ interface TimeStamp {
 	stamp: number;
 }
 
-function logTimeStamp<T>(num: T): T {
+function logTimeStamp<T extends TimeStamp>(num: T): T {
 	console.log(num.stamp);
 	return num;
 }
