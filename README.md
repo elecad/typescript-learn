@@ -1,3 +1,14 @@
-# MyTsDemo
+# Typescript Features 
+##### Репозиторий для изучения возможностей TypeScript
 
-I learn typescript now here
+Рассмотренные в репозитории темы:
+| Тема | Описание | 
+| ------ | ------ |  
+| Basic types | Базовые типы |
+| Class | Объектно-ориентированное программирование |
+| Enums | Перечисления |
+| Generics | Переопределяемые типы |
+| Interfaces&Tupes | Интерфейсы и типы |
+| LiteralTypes | Литеральные типы |
+| Manipulation | Операции с типами |
+
